@@ -4,12 +4,16 @@
   height:75px;
   border:2px solid red;
   border-radius:12px;
+  text-align: center;
+  line-height: 75px;
 }
 
 /* A handful of background colors for differentiating columns */
 
 .green{
   background-color:green;
+  padding: 10px 0px;
+  height:auto;
 }
 .red{
   background-color:red;
